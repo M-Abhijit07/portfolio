@@ -1,0 +1,327 @@
+{
+  "projects": [
+    {
+      "summary": "- Feature Extraction: Used MFCC to extract key audio features from child voice recordings for gender classification.\n- ModelImplementation: Developed and tested various machine learning (SVM, Random Forest) and deep learning models (CNN, RNN)\n- Model Optimization: Improved model performance through hyperparameter tuning, cross-validation, and extensive evaluation metrics (accuracy,\nprecision,recall).\n- Outcome: Achieved [94%] accuracy in distinguishing child gender, demonstrating effective use of audio features in classification tasks.",
+      "technologies": [
+        {
+          "title": "Machine Learning and Deep Learning",
+          "_updatedAt": "2024-10-02T12:56:16Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-40e4b15a119963e462efa13d35d47909de57565c-96x96-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:55:49Z",
+          "_rev": "YgOt5iFIRPv46yRsKP67tz",
+          "_type": "skill",
+          "progress": 70,
+          "_id": "8a22220b-cd0e-4e17-92ba-00bd81dd9b43"
+        }
+      ],
+      "_id": "1005282b-a9cf-4ef7-8e0f-2d434a06cc3c",
+      "_type": "project",
+      "title": "Gender Classification",
+      "_updatedAt": "2024-10-02T13:21:23Z",
+      "linkToBuild": "https://github.com/mo-jo-dev/childGenderDetection",
+      "_createdAt": "2024-10-02T13:07:08Z",
+      "_rev": "swS2FZKd7vAdFVM7KbER2y"
+    },
+    {
+      "technologies": [
+        {
+          "_id": "9a9da4cc-751b-44be-b429-46f6598e0c9b",
+          "title": "HTML",
+          "_updatedAt": "2024-10-02T12:47:49Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-a830cbcfc653163dab5e07db622c5dcbbfcc3d66-480x480-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:33:42Z",
+          "_rev": "SbOuTLRgLeX52a48NoljPG",
+          "_type": "skill",
+          "progress": 100
+        },
+        {
+          "progress": 100,
+          "_id": "53f1fc5b-ba67-48d0-8de2-970a783712b7",
+          "title": "CSS",
+          "_updatedAt": "2024-10-02T12:45:59Z",
+          "image": {
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-13b83194fe261b7724cf167ba0668f484ccb5fe3-480x480-png"
+            },
+            "_type": "image"
+          },
+          "_createdAt": "2024-10-02T12:45:37Z",
+          "_rev": "SbOuTLRgLeX52a48NolerO",
+          "_type": "skill"
+        },
+        {
+          "_id": "f82ee35a-0dd4-4869-8925-7d67908bce97",
+          "title": "JavaScript",
+          "_updatedAt": "2024-10-02T12:47:14Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-fdfa3f0109de1e5f31817257bbf469a5d8490caa-480x480-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:47:02Z",
+          "_rev": "9px8ir0NfLa6aydsXVyzaS",
+          "_type": "skill",
+          "progress": 30
+        },
+        {
+          "_createdAt": "2024-10-02T12:50:46Z",
+          "_rev": "YgOt5iFIRPv46yRsKP19vE",
+          "_type": "skill",
+          "progress": 60,
+          "_id": "4bcb72af-e04d-47f5-abee-98184788a7b2",
+          "title": "Python",
+          "_updatedAt": "2024-10-02T12:51:20Z",
+          "image": {
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-a6dc184981ab4eaf745dc4835c717d57731811ea-480x480-png"
+            },
+            "_type": "image"
+          }
+        },
+        {
+          "_id": "8a22220b-cd0e-4e17-92ba-00bd81dd9b43",
+          "title": "Machine Learning and Deep Learning",
+          "_updatedAt": "2024-10-02T12:56:16Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-40e4b15a119963e462efa13d35d47909de57565c-96x96-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:55:49Z",
+          "_rev": "YgOt5iFIRPv46yRsKP67tz",
+          "_type": "skill",
+          "progress": 70
+        }
+      ],
+      "_createdAt": "2024-10-02T13:23:57Z",
+      "linkToBuild": "https://github.com/thesujai/Kala-Jaadu",
+      "_rev": "4m6Q6gPTqsydm9IPEHJbhf",
+      "summary": "- Engineered an AI-driven Chrome extension that analyzed user interactions in e-shopping apps; classified dark patterns effectively, improving\ncompliance with user experience standards and contributing to a 25% reduction in customer complaints.",
+      "_type": "project",
+      "title": "Dark Pattern Recognition",
+      "_id": "42ca01dd-e9ec-4c8a-854b-39ad0e728aea",
+      "_updatedAt": "2024-10-02T13:24:57Z"
+    },
+    {
+      "_type": "project",
+      "summary": "- Developed a digital clock using ESP8266 microcontroller and OLED display, leveraging C++ and I2C communication protocol.",
+      "title": "Digital Clock",
+      "_updatedAt": "2024-10-02T13:25:47Z",
+      "_createdAt": "2024-10-02T13:25:03Z",
+      "linkToBuild": "https://github.com/M-Abhijit07/digital_clock_using_ESP8266",
+      "technologies": [
+        {
+          "title": "C++",
+          "_updatedAt": "2024-10-02T12:50:40Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-cfc86805c5391489c9dd773dd0bb7e31d4164b22-480x480-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:50:32Z",
+          "_rev": "9px8ir0NfLa6aydsXVzHYs",
+          "_type": "skill",
+          "progress": 70,
+          "_id": "96d8a1f3-1eb0-4593-83b0-627d37944eee"
+        },
+        {
+          "title": "Arduino IDE",
+          "_updatedAt": "2024-10-02T13:26:20Z",
+          "image": {
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-b468f260be0ce852499bac805f0bddb69975267a-480x480-png"
+            },
+            "_type": "image"
+          },
+          "_createdAt": "2024-10-02T13:17:17Z",
+          "_rev": "4m6Q6gPTqsydm9IPEHJkS5",
+          "_type": "skill",
+          "progress": 80,
+          "_id": "f2955cdb-535c-4838-baef-5461ac292877"
+        }
+      ],
+      "_rev": "Nc7kELhkSUiWAAhF3t9cCo",
+      "_id": "7ba809ac-a984-40be-ad56-018fb2f66a78"
+    },
+    {
+      "title": "Connect 4 Game",
+      "_createdAt": "2024-10-02T13:22:41Z",
+      "_type": "project",
+      "_updatedAt": "2024-10-02T13:23:45Z",
+      "summary": "- Generated a playable Connect 4 game using HTML, CSS, and JavaScript.It has a user-friendly interface with an interactive game board and visual\nfeedback and also a Hint button controlled by a computer.",
+      "_rev": "ywd05K0KKaYMJCnLXHrr9x",
+      "technologies": [
+        {
+          "_createdAt": "2024-10-02T12:33:42Z",
+          "_rev": "SbOuTLRgLeX52a48NoljPG",
+          "_type": "skill",
+          "progress": 100,
+          "_id": "9a9da4cc-751b-44be-b429-46f6598e0c9b",
+          "title": "HTML",
+          "_updatedAt": "2024-10-02T12:47:49Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-a830cbcfc653163dab5e07db622c5dcbbfcc3d66-480x480-png",
+              "_type": "reference"
+            }
+          }
+        },
+        {
+          "progress": 50,
+          "_id": "6df93e29-e3f5-4064-bdd3-fb1a22e55dfc",
+          "title": "React",
+          "_updatedAt": "2024-10-02T12:52:42Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-93da2a1df32bd624e6f2922f5b61d5e9e94668e5-480x480-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:52:30Z",
+          "_rev": "uwqjqC49t33k8EB7d7aQae",
+          "_type": "skill"
+        },
+        {
+          "_createdAt": "2024-10-02T12:45:37Z",
+          "_rev": "SbOuTLRgLeX52a48NolerO",
+          "_type": "skill",
+          "progress": 100,
+          "_id": "53f1fc5b-ba67-48d0-8de2-970a783712b7",
+          "title": "CSS",
+          "_updatedAt": "2024-10-02T12:45:59Z",
+          "image": {
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-13b83194fe261b7724cf167ba0668f484ccb5fe3-480x480-png"
+            },
+            "_type": "image"
+          }
+        },
+        {
+          "_id": "2b2e3c1e-59b5-4a9e-8c60-bb883bd969c2",
+          "title": "TailwindCSS",
+          "_updatedAt": "2024-10-02T12:49:48Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-e214454809040f1a99b15112591fb1e12523b3f3-480x480-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:49:34Z",
+          "_rev": "9px8ir0NfLa6aydsXVz5xn",
+          "_type": "skill",
+          "progress": 100
+        }
+      ],
+      "linkToBuild": "https://github.com/M-Abhijit07/connect4",
+      "_id": "d9f63f58-b7a5-4e66-92e8-e4def0bbcb67"
+    },
+    {
+      "_updatedAt": "2024-10-03T11:47:05Z",
+      "_type": "project",
+      "title": "Do it now",
+      "summary": "- Designed and implemented a MERN stack application for personalized to-do list management, facilitating task prioritization and reminders; the\nplatform is actively used by over 150 users with an average of 50 tasks managed per week.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_type": "reference",
+          "_ref": "image-22906a878800275788d6219a56e17052debcbf27-480x480-png"
+        }
+      },
+      "_rev": "wg5tjyxpk0BvUPWWjmZLw5",
+      "_id": "f3dab762-62d8-4a5b-882c-26f3889e3eef",
+      "technologies": [
+        {
+          "_type": "skill",
+          "progress": 50,
+          "_id": "6f5ea572-31b2-4a59-91a1-b309169c94e8",
+          "title": "MongoDB",
+          "_updatedAt": "2024-10-02T12:53:53Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-18dbee0d50275963274511f4d8fc35c47230e81c-96x96-png",
+              "_type": "reference"
+            }
+          },
+          "_createdAt": "2024-10-02T12:53:38Z",
+          "_rev": "uwqjqC49t33k8EB7d7aZsu"
+        },
+        {
+          "_createdAt": "2024-10-02T13:11:50Z",
+          "_rev": "4m6Q6gPTqsydm9IPEHFwJW",
+          "_type": "skill",
+          "progress": 40,
+          "_id": "88b9d461-683b-4d52-a268-815b42091fd3",
+          "title": "ExpressJS",
+          "_updatedAt": "2024-10-02T13:12:11Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-03056f7ba0eb1b23c20b18aa35908a10c19d22ed-480x480-png",
+              "_type": "reference"
+            }
+          }
+        },
+        {
+          "_createdAt": "2024-10-02T12:52:30Z",
+          "_rev": "uwqjqC49t33k8EB7d7aQae",
+          "_type": "skill",
+          "progress": 50,
+          "_id": "6df93e29-e3f5-4064-bdd3-fb1a22e55dfc",
+          "title": "React",
+          "_updatedAt": "2024-10-02T12:52:42Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-93da2a1df32bd624e6f2922f5b61d5e9e94668e5-480x480-png",
+              "_type": "reference"
+            }
+          }
+        },
+        {
+          "_createdAt": "2024-10-02T12:53:24Z",
+          "_rev": "YgOt5iFIRPv46yRsKP4YtT",
+          "_type": "skill",
+          "progress": 50,
+          "_id": "d2ed91b5-cb25-45ca-8ca8-850801101b9b",
+          "title": "NodeJS",
+          "_updatedAt": "2024-10-02T12:53:33Z",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-dbcfccc046aeffe604d278e91040314f28303cc5-480x480-png",
+              "_type": "reference"
+            }
+          }
+        }
+      ],
+      "linkToBuild": "https://github.com/M-Abhijit07/ToDo-List",
+      "_createdAt": "2024-10-02T13:21:38Z"
+    }
+  ]
+}

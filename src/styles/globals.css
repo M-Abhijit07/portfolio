@@ -2,26 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer components {
+  .heroButton {
+    @apply px-6 py-2 border border-[#210B2C] rounded-full uppercase text-sm tracking-widest text-white transition-all hover:border-[#D22B2B]/80 hover:text-[#D22B2B] hover:scale-125 duration-300 ease-in-out
   }
+  
+
+  .contactInput {
+    @apply outline-none bg-[#D8B4E2]/10 rounded-sm border-b px-6 py-4 border-[#242424] text-white placeholder-gray-200 transition-all focus:border-[#d22b2b]/80 focus:text-gray-300 hover:border-[#d22b2b]/80;
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
 }
